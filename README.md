@@ -139,3 +139,6 @@ python manage.py test
 
 This project is open source and available for educational purposes.
 
+
+## Live Deployment
+Deployed App: https://ostad-devops-assignment02.onrender.com/
